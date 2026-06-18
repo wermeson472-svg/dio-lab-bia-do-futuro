@@ -62,20 +62,20 @@ Use com os participantes do teste:
 
 | Métrica | Pergunta | Nota (1-5) |
 |---------|----------|------------|
-| Assertividade | "As respostas responderam suas perguntas?" | ___ |
-| Segurança | "As informações pareceram confiáveis?" | ___ |
-| Coerência | "A linguagem foi clara e fácil de entender?" | ___ |
+| Assertividade | "As respostas responderam suas perguntas?" | sim |
+| Segurança | "As informações pareceram confiáveis?" | sim |
+| Coerência | "A linguagem foi clara e fácil de entender?" | sim |
 
 **Comentário aberto:** O que você achou desta experiência e o que poderia melhorar?
 
----
+--- A experiência foram boas, mas claro que com uma grande margem para crescimento
 
 ## Resultados
 
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- [Ele respondeu bem as perguntas, mas eu sinto que falta uma margem para crescimento, achei as respostas um pouco vazias]
 
 **O que pode melhorar:**
-- [Liste aqui]
+- [Claramente as respostas vazias podem melhorar, com mais conteudos, mas para isso preciso injetar nele mais conhecimento]
